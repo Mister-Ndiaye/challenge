@@ -1,0 +1,15 @@
+#### hello and welcome to log file #############
+2023-08-01 10:15:22 - INFO - Application started.
+2023-08-01 10:17:35 - WARNING - Disk space is running low on /dev/sda1.
+2023-08-01 10:18:40 - ERROR - Connection to database server failed.
+2023-08-01 10:20:02 - INFO - User logged in: jsmith
+2023-08-01 10:21:16 - ERROR - Unable to process request: Invalid input data.
+2023-08-01 10:25:04 - INFO - Application stopped.
+2023-08-01 10:30:12 - ERROR - Service not responding. Restarting...
+2023-08-01 10:33:58 - WARNING - CPU temperature above recommended threshold.
+2023-08-01 10:35:22 - INFO - User logged in: mjohnson
+2023-08-01 10:40:50 - ERROR - Unable to establish a connection to remote server.
+2023-08-01 10:42:05 - INFO - Application started.
+2023-08-01 10:45:11 - WARNING - Unusual network activity detected.
+2023-08-01 10:50:30 - ERROR - Authentication failed for user: asmith
+2023-08-01 10:52:44 - CRITICAL - System crash detected. Emergency restart required.
