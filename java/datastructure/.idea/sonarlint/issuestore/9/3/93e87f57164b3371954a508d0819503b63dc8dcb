@@ -1,0 +1,22 @@
+
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¶Ôˆ
+G
+java:S5261 "1Add explicit curly braces to avoid dangling else.(á¢–¬
+S
+java:S1854*"8Remove this useless assignment to local variable "tree".(Ã„ø£úÿÿÿÿ
+Q
+java:S1854)";Remove this useless assignment to local variable "current".(ÑªóÁ
+A
+java:S1172("+Remove this unused method parameter "node".(¿©€
+B
+java:S1481)",Remove this unused "current" local variable.(ÑªóÁ
+D
+java:S1481*")Remove this unused "tree" local variable.(Ã„ø£úÿÿÿÿ
+A
+java:S1168,"+Return an empty collection instead of null.(¥¹ï
+E	java:S106U"+Replace this use of System.out by a logger.(îÁ–ûÿÿÿÿ
+E	java:S106X"+Replace this use of System.out by a logger.(îÁ–ûÿÿÿÿ
+@	java:S106e"+Replace this use of System.out by a logger.(œş€
+F	java:S106"+Replace this use of System.out by a logger.(îÁşöùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(‡·‘
