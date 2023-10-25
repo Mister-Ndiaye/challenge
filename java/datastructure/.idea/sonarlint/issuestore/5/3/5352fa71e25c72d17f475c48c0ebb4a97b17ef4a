@@ -1,11 +1,11 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ž³´øÿÿÿÿ
-h	java:S100
-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž†…¡øÿÿÿÿ
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Úû¤ùÿÿÿÿ
-P
-java:S1854$"5Remove this useless assignment to local variable "f".(ÌùÆŽþÿÿÿÿ
-A
-java:S1481$"&Remove this unused "f" local variable.(ÌùÆŽþÿÿÿÿ
-E	java:S106("+Replace this use of System.out by a logger.(êŽð»ýÿÿÿÿ
-Q	java:S125*"<This block of commented-out lines of code should be removed.(’ºáí
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ž³´øÿÿÿÿ8–ä­³1
+o	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž†…¡øÿÿÿÿ8™å­³1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Úû¤ùÿÿÿÿ8Ÿå­³1
+W
+java:S1854$"5Remove this useless assignment to local variable "f".(ÌùÆŽþÿÿÿÿ8¬å­³1
+H
+java:S1481$"&Remove this unused "f" local variable.(ÌùÆŽþÿÿÿÿ8ºå­³1
+L	java:S106("+Replace this use of System.out by a logger.(êŽð»ýÿÿÿÿ8¾å­³1
+X	java:S125*"<This block of commented-out lines of code should be removed.(’ºáí8Àå­³1

@@ -1,11 +1,11 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¶Ôˆ
-V
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¶Ôˆ8Êé­³1
+]
 java:S1075
-"ARefactor your code to get this URI from a customizable parameter.(óı>
-E	java:S106"+Replace this use of System.out by a logger.(è­ôÀùÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(àêàÂüÿÿÿÿ
-F
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
-F
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+"ARefactor your code to get this URI from a customizable parameter.(óı>8Õé­³1
+L	java:S106"+Replace this use of System.out by a logger.(è­ôÀùÿÿÿÿ8äé­³1
+L	java:S106"+Replace this use of System.out by a logger.(àêàÂüÿÿÿÿ8åé­³1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8çé­³1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8èé­³1

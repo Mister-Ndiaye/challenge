@@ -1,8 +1,8 @@
 
-E
-java:S3740"/Provide the parametrized type for this generic.(ßî¶Û
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦ğ­€ûÿÿÿÿ
-f
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ßî¶Û
-@	java:S106"+Replace this use of System.out by a logger.(ÀÜ¨
-@	java:S106"+Replace this use of System.out by a logger.(ÀÜ¨
+L
+java:S3740"/Provide the parametrized type for this generic.(ßî¶Û8ÅŞ­³1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦ğ­€ûÿÿÿÿ8ÕŞ­³1
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ßî¶Û8®á­³1
+G	java:S106"+Replace this use of System.out by a logger.(ÀÜ¨8âá­³1
+G	java:S106"+Replace this use of System.out by a logger.(ÀÜ¨8éá­³1

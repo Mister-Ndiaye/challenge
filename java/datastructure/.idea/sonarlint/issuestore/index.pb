@@ -17,3 +17,5 @@ E
 part2/trees/Test.java,0\6\06782042bde49bd213381e76dac1c902c1039997
 F
 part2/trees/Trees.java,9\3\93e87f57164b3371954a508d0819503b63dc8dcb
+J
+part2/trees/TreesTest.java,f\6\f6d62480a8d6b48a05ade0e5c84162cf19e2f036
